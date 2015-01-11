@@ -112,3 +112,11 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+### Quick Notes about the R files and plots
+
+The height and width for the plot pngs are set to 480 as per the assignment/ project instructions. But for exact match with the plots, the height and width be set to 504.
+Similarly, the background is set to transparent instead of white to match the attached figures. On the Coursera's white background, these would match.
+
+About data - full data is loaded into a data frame and then a subset is created for the two specified dates.
+An additional column is created with concatenated Date and Time values.

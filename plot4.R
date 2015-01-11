@@ -1,3 +1,4 @@
+# Data loading
 # Unzip the contents of Electric power consumption. Create a Data folder in the working directory and store the household_power_consumption.txt file in it.
 # Read the records from household_power_consumption.txt. First line contains the column names. Missing values are encoded as "?".
 
